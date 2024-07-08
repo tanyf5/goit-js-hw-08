@@ -89,4 +89,3 @@ images.forEach(image => {
       modal.show();
   });
 });
-    gallery.appendChild(ulItem);
